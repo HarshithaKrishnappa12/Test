@@ -1,0 +1,11 @@
+ls
+cd
+git init
+git remote add orginn <gitlink>
+git remote -v
+git add
+git commit -m "any message"
+git push orgin
+git status
+
+git help
