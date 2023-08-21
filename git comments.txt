@@ -8,4 +8,10 @@ git commit -m "any message"
 git push orgin
 git status
 
-git help
+git help 
+
+git branch branch name (Creating a branch)
+
+git checkout braanch name (to switch the branch) 
+
+
